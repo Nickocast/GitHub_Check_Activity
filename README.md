@@ -8,3 +8,4 @@ Consiste en crear un CLI simple, en el cual el usuario debe insertar un nombre d
 * Imprimir si recibió alguna valoración.
  
 Para salir del CLI y finalizar el programa solo se debe insertar **exit**.
+**Web del proyecto:** https://roadmap.sh/projects/github-user-activity
